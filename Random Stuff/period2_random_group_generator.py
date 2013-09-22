@@ -37,7 +37,7 @@ Stephanie	#
 Evangelina	#
 Long	#
 Laureon	#
-Colton	#
+Colton
 '''
 all_students = re.sub('\n', '', all_students) 
 all_students = re.sub('\t', '', all_students) 

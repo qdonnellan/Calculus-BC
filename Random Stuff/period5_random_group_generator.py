@@ -13,14 +13,14 @@ Matthew #
 Gustavo #
 Victor #
 Nicholas #
-Hao Tu	#
+Hao #
 Jacob #
 Michael K.	#
 Raymond #
 Justin #
 Henry 	#
 Quan#
-Thai	#
+Thaichan	#
 Thuc #
 Michael P.	#
 Loana	#

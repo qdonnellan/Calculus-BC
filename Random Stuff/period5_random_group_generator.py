@@ -36,7 +36,6 @@ Joseph 	#
 Lilly	#
 Uyen	#
 Kimmy	#
-Paige #
 Austin 
 '''
 all_students = re.sub('\n', '', all_students) 

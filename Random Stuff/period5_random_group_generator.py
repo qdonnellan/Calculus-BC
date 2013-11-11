@@ -46,12 +46,15 @@ print "Your randomized groups for the day are: \n"
 group1 = ''
 group2 = ''
 group3 = ''
-for student in all_students[0:13]:
+group4 = ''
+for student in all_students[0:9]:
     group1 += student.strip() + ", "
-for student in all_students[13:24]:
+for student in all_students[9:18]:
     group2 += student.strip() + ", "
-for student in all_students[24:]:
+for student in all_students[18:27]:
     group3 += student.strip() + ", "
+for student in all_students[27:]:
+    group4 += student.strip() + ", "
     
 print "Group 1"
 print group1, "\n"
@@ -59,5 +62,8 @@ print "Group 2"
 print group2, "\n"
 print "Group 3"
 print group3, "\n"
+print "Group 4"
+print group4, "\n"
+
 
 

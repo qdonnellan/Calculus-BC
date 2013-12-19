@@ -56,6 +56,7 @@ for student in all_students[18:27]:
 for student in all_students[27:]:
     group4 += student.strip() + ", "
     
+    
 print "Group 1"
 print group1, "\n"
 print "Group 2"

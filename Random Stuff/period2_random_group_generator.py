@@ -24,7 +24,6 @@ Shawn	#
 Philip	#
 Vivian	#
 Jonah	#
-Alondra	#
 Brendan	#
 India	#
 Paul	#
